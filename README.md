@@ -66,7 +66,3 @@ npm run build
 - `/booking` - Booking page
 - `/my-bookings` - My Bookings
 - `/cancel-booking` - Cancel Booking
-
-## Notes
-
-The `.env.local`, `node_modules`, and `.next` folders should not be included in the submitted archive.
